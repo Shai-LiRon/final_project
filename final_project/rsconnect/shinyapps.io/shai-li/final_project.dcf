@@ -5,8 +5,8 @@ account: shai-li
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3904154
-bundleId: 4425593
+bundleId: 4428049
 url: https://shai-li.shinyapps.io/final_project/
-when: 1617401459.00401
+when: 1617481217.22377
 asMultiple: FALSE
 asStatic: FALSE
